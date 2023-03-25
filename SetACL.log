@@ -1,0 +1,2219 @@
+C:\Users\hirat\AppData\Local\Temp\pft4510.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\Installer> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AEGIS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\JournalScan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\housecall>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW\Feature>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus\VOLATILE>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+C:\Users\hirat\AppData\Local\Temp\pft4510.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AEGIS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\JournalScan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\housecall>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW\Feature>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Vizor>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus\VOLATILE>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+C:\Users\hirat\AppData\Local\Temp\pft9040.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\Installer> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AEGIS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\JournalScan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW\Feature>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus\VOLATILE>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+C:\Users\hirat\AppData\Local\Temp\pft9040.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AEGIS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSP\JournalScan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\PFW\Feature>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\NSC\TmProxy\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Vizor>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\AMSPStatus\VOLATILE>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+C:\Users\hirat\AppData\Local\Temp\pft8625.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\Installer> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+C:\Users\hirat\AppData\Local\Temp\pft8625.tmp\x64\SetACL.exe
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut>
+ERROR: Reading the SD from <classes_root\DocShortcut> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}>
+ERROR: Reading the SD from <classes_root\DocShortcut\ShellEx\ContextMenuHandlers\{48F45200-91E6-11CE-8A4F-0080C81A28D4}> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\TMS>
+ERROR: Reading the SD from <machine\SOFTWARE\CoreSecurity\TMS> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\CoreSecurity\Installer>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\PluginManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Others80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-80>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-8080>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Http\Redirect\Port-81>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\http2\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\msn>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\pop3\redirect\Pop3Mailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\SmtpMailer>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\smtp\redirect\Submission>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\Socks\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\ProtocolHandler\ymsg>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\AntiSpam\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HostFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\HttpManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\MailManager\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SafeSearch\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\SAL\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\URLFilter\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Common\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HostFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\HttpsFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\NetworkEvents>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SafeSearch>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\SAL>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\URLFilter>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\http\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\ImManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\im\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Pop3\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\Proxy\ProxyManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\MailManager>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\PrivacyProtection\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\Scan\smtp\Virus\config>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\000OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\001OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\002OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\003OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\004OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\005OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\006OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\007OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\008OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\009OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\010OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\011OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\012OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\013OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\014OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\015OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\016OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\017OSCE>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP001>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\AMSP002>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\Apache>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ClnDiag>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\CWAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\ISASERVER>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\RemoteDesktop>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\TOMCAT>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Osprey\WhiteList\UTILWSS>
+INFORMATION: Processing ACL of: <machine\SOFTWARE\TrendMicro\Vizor>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <machine\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Application Data\Trend Micro>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Application Data\Trend Micro> failed with: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o caminho especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro>
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\OL>
+
+SetACL finished successfully.
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+
+SetACL finished with error(s): 
+SetACL error message: The SID for a trustee could not be found
+INFORMATION: Processing ACL of: <\\?\C:\ProgramData\Trend Micro\Corridor>
+ERROR: Reading the SD from <\\?\C:\ProgramData\Trend Micro\Corridor> failed with: O sistema não pode encontrar o arquivo especificado.
+
+SetACL finished with error(s): 
+SetACL error message: The call to GetNamedSecurityInfo () failed
+Operating system error message: O sistema não pode encontrar o arquivo especificado.
